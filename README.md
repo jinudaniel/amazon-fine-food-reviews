@@ -6,3 +6,4 @@ Dataset can be downloaded from [here](https://www.kaggle.com/snap/amazon-fine-fo
 ### Models used
 * TFIDF Vectorizer with Logistic Regression.
 * ULMFiT with FastAI
+* LSTM uisng Pytorch and Torchtext (work in progress).
