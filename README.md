@@ -8,4 +8,5 @@ Dataset can be downloaded from [here](https://www.kaggle.com/snap/amazon-fine-fo
 * ULMFiT with FastAI
 * LSTM using Pytorch and Torchtext.
 * BERT using TensorFlow and Keras.
-* BERT using Pytorch
+* BERT using Pytorch-Transformers.
+* XLNet using Pytorch-Transformers.
